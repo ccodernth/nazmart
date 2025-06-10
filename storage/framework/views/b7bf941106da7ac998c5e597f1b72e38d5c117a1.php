@@ -1,0 +1,3 @@
+<button data-bs-target="#<?php echo e($target); ?>" data-id="<?php echo e($dataid ?? ''); ?>" data-select-markup="<?php echo $selectMarkup ?? ''; ?>" data-user="<?php echo e($datauser ?? false); ?>"
+        data-status="<?php echo e($datastatus ?? ''); ?>" data-bs-toggle="modal" class="mb-3 mr-1 btn-sm btn btn-<?php echo e($type ?? 'primary'); ?> <?php echo e($extra ?? ''); ?>" ><?php echo e($slot ?? ''); ?></button>
+<?php /**PATH /home/crux/public_html/core/resources/views/components/modal/button.blade.php ENDPATH**/ ?>

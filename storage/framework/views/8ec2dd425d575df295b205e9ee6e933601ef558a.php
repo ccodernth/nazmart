@@ -1,0 +1,1 @@
+<?php /**PATH /home/crux/public_html/core/resources/views/tenant/frontend/partials/backtop.blade.php ENDPATH**/ ?>

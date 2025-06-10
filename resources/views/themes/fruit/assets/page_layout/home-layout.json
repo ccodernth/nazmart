@@ -1,0 +1,80 @@
+[
+    {
+        "id": 16,
+        "addon_name": "HeaderOne",
+        "addon_type": "update",
+        "addon_location": "dynamic_page",
+        "addon_order": 1,
+        "addon_page_id": 1,
+        "addon_page_type": "dynamic_page",
+        "addon_settings": "{\"id\":\"16\",\"addon_name\":\"HeaderOne\",\"addon_namespace\":\"UGx1Z2luc1xQYWdlQnVpbGRlclxBZGRvbnNcVGVuYW50c1xBcm9tYXRpY1xIZWFkZXJcSGVhZGVyT25l\",\"addon_type\":\"update\",\"addon_location\":\"dynamic_page\",\"addon_order\":\"1\",\"addon_page_id\":\"1\",\"addon_page_type\":\"dynamic_page\",\"header_repeater\":{\"figure_image_\":[\"961\",\"962\"]},\"padding_top\":\"0\",\"padding_bottom\":\"0\"}",
+        "addon_namespace": "Plugins\\PageBuilder\\Addons\\Tenants\\Fruit\\Header\\HeaderOne",
+        "created_at": "2023-05-23T05:59:56.000000Z",
+        "updated_at": "2023-05-24T12:13:32.000000Z"
+    },
+    {
+        "id": 17,
+        "addon_name": "Services",
+        "addon_type": "update",
+        "addon_location": "dynamic_page",
+        "addon_order": 2,
+        "addon_page_id": 1,
+        "addon_page_type": "dynamic_page",
+        "addon_settings": "{\"id\":\"17\",\"addon_name\":\"Services\",\"addon_namespace\":\"UGx1Z2luc1xQYWdlQnVpbGRlclxBZGRvbnNcVGVuYW50c1xGcnVpdFxDb21tb25cU2VydmljZXM=\",\"addon_type\":\"update\",\"addon_location\":\"dynamic_page\",\"addon_order\":\"3\",\"addon_page_id\":\"1\",\"addon_page_type\":\"dynamic_page\",\"services_repeater\":{\"repeater_icon_\":[\"las la-life-ring\",\"las la-lock\",\"las la-recycle\"],\"repeater_title_\":[\"Canl\\u0131 D\\u0259st\\u0259k\",\"T\\u0259hl\\u00fck\\u0259siz \\u00d6d\\u0259ni\\u015f\",\"Pulsuz Qaytarmalar\"],\"repeater_subtitle_\":[\"100% M\\u00fc\\u015ft\\u0259ri M\\u0259mnuniyy\\u0259ti\",\"256 Bit SSL \\u015eifr\\u0259l\\u0259m\\u0259\",\"D\\u0259rhal Pulsuz Qaytarmalar\"]},\"padding_top\":\"0\",\"padding_bottom\":\"100\"}",
+        "addon_namespace": "Plugins\\PageBuilder\\Addons\\Tenants\\Fruit\\Common\\Services",
+        "created_at": "2023-05-23T10:31:50.000000Z",
+        "updated_at": "2023-05-25T05:30:19.000000Z"
+    },
+    {
+        "id": 18,
+        "addon_name": "CollectionCard",
+        "addon_type": "update",
+        "addon_location": "dynamic_page",
+        "addon_order": 3,
+        "addon_page_id": 1,
+        "addon_page_type": "dynamic_page",
+        "addon_settings": "{\"id\":\"18\",\"addon_name\":\"CollectionCard\",\"addon_namespace\":\"UGx1Z2luc1xQYWdlQnVpbGRlclxBZGRvbnNcVGVuYW50c1xGcnVpdFxDb21tb25cQ29sbGVjdGlvbkNhcmQ=\",\"addon_type\":\"update\",\"addon_location\":\"dynamic_page\",\"addon_order\":\"3\",\"addon_page_id\":\"1\",\"addon_page_type\":\"dynamic_page\",\"title\":\"#E-MEYV\\u018f\",\"subtitle\":\"Ba\\u011fdan \\u0259n t\\u0259z\\u0259 sa\\u011flam m\\u0259hsullar!\",\"image_url_1\":\"image1\",\"image_1\":\"963\",\"image_url_2\":\"image2\",\"image_2\":\"964\",\"image_url_3\":\"image3\",\"image_3\":\"965\",\"image_url_4\":\"image4\",\"image_4\":\"966\",\"image_url_5\":\"image5\",\"image_5\":\"967\",\"image_url_6\":\"image6\",\"image_6\":\"968\",\"image_url_7\":\"image7\",\"image_7\":\"969\",\"image_url_8\":\"image8\",\"image_8\":\"970\",\"padding_top\":\"0\",\"padding_bottom\":\"0\"}",
+        "addon_namespace": "Plugins\\PageBuilder\\Addons\\Tenants\\Fruit\\Common\\CollectionCard",
+        "created_at": "2023-05-24T11:26:42.000000Z",
+        "updated_at": "2023-05-24T12:14:02.000000Z"
+    },
+    {
+        "id": 19,
+        "addon_name": "RecommendedProduct",
+        "addon_type": "update",
+        "addon_location": "dynamic_page",
+        "addon_order": 4,
+        "addon_page_id": 1,
+        "addon_page_type": "dynamic_page",
+        "addon_settings": "{\"id\":\"19\",\"addon_name\":\"RecommendedProduct\",\"addon_namespace\":\"UGx1Z2luc1xQYWdlQnVpbGRlclxBZGRvbnNcVGVuYW50c1xGcnVpdFxQcm9kdWN0XFJlY29tbWVuZGVkUHJvZHVjdA==\",\"addon_type\":\"update\",\"addon_location\":\"dynamic_page\",\"addon_order\":\"4\",\"addon_page_id\":\"1\",\"addon_page_type\":\"dynamic_page\",\"title\":\"Sizin üçün tövsiyə olunur\",\"image_1_url\":\"#image1\",\"image_1\":\"971\",\"products_1\":[\"190\",\"191\",\"192\",\"193\",\"195\"],\"item_show_1\":\"30\",\"item_order_1\":\"desc\",\"image_2_url\":\"#image2\",\"image_2\":\"972\",\"products_2\":[\"190\",\"191\",\"192\",\"193\",\"195\"],\"item_show_2\":\"30\",\"item_order_2\":\"desc\",\"padding_top\":\"0\",\"padding_bottom\":\"0\"}",
+        "addon_namespace": "Plugins\\PageBuilder\\Addons\\Tenants\\Fruit\\Product\\RecommendedProduct",
+        "created_at": "2023-05-24T12:19:46.000000Z",
+        "updated_at": "2023-05-25T06:22:05.000000Z"
+    },
+    {
+        "id": 20,
+        "addon_name": "TrendingProducts",
+        "addon_type": "update",
+        "addon_location": "dynamic_page",
+        "addon_order": 5,
+        "addon_page_id": 1,
+        "addon_page_type": "dynamic_page",
+        "addon_settings": "{\"id\":\"20\",\"addon_name\":\"TrendingProducts\",\"addon_namespace\":\"UGx1Z2luc1xQYWdlQnVpbGRlclxBZGRvbnNcVGVuYW50c1xGcnVpdFxQcm9kdWN0XFRyZW5kaW5nUHJvZHVjdHM=\",\"addon_type\":\"update\",\"addon_location\":\"dynamic_page\",\"addon_order\":\"5\",\"addon_page_id\":\"1\",\"addon_page_type\":\"dynamic_page\",\"title\":\"YENİ GƏLƏNLƏR\",\"products\":[\"190\",\"191\",\"192\",\"193\",\"195\",\"196\",\"197\"],\"item_show\":\"12\",\"item_order\":\"desc\",\"padding_top\":\"0\",\"padding_bottom\":\"0\"}",
+        "addon_namespace": "Plugins\\PageBuilder\\Addons\\Tenants\\Fruit\\Product\\TrendingProducts",
+        "created_at": "2023-05-25T05:53:09.000000Z",
+        "updated_at": "2023-05-25T06:23:51.000000Z"
+    },
+    {
+        "id": 21,
+        "addon_name": "SubscribeNewsletter",
+        "addon_type": "update",
+        "addon_location": "dynamic_page",
+        "addon_order": 6,
+        "addon_page_id": 1,
+        "addon_page_type": "dynamic_page",
+        "addon_settings": "{\"id\":\"21\",\"addon_name\":\"SubscribeNewsletter\",\"addon_namespace\":\"UGx1Z2luc1xQYWdlQnVpbGRlclxBZGRvbnNcVGVuYW50c1xGcnVpdFxDb21tb25cU3Vic2NyaWJlTmV3c2xldHRlcg==\",\"addon_type\":\"update\",\"addon_location\":\"dynamic_page\",\"addon_order\":\"6\",\"addon_page_id\":\"1\",\"addon_page_type\":\"dynamic_page\",\"lang_slug\":\"tr_TR\",\"title\":\"E-BULLETEN ABUN\\u018fS\\u0130\",\"subtitle\":\"E-B\\u00dcLTEN\\u018f ABUN\\u018f OLUN\",\"padding_top\":\"0\",\"padding_bottom\":\"0\"}",
+        "addon_namespace": "Plugins\\PageBuilder\\Addons\\Tenants\\Fruit\\Common\\SubscribeNewsletter",
+        "created_at": "2023-05-25T07:56:40.000000Z",
+        "updated_at": "2023-05-25T08:35:21.000000Z"
+    }
+]

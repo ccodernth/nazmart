@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo e(global_asset('assets/landlord/common/css/summernote-lite.min.css')); ?>">
+<?php /**PATH /home/crux/public_html/core/resources/views/components/summernote/css.blade.php ENDPATH**/ ?>

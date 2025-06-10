@@ -1,0 +1,1 @@
+<?php /**PATH /home/crux/public_html/core/resources/views/themes/electro/footerHookTemplate/footer.blade.php ENDPATH**/ ?>
